@@ -1,5 +1,3 @@
-![veeksha12/README.md](https://img.shields.io/badge/veeksha12--r%2FREADME.md-orange)
-
 # Sai Veeksha Tavva
 
 ---
