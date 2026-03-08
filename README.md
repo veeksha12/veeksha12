@@ -36,20 +36,3 @@
 * **Interests:** Algorithm Analysis, Data Analytics, AI/ML, and Cryptographic Analysis 
 
 ---
-
-## 📊 GitHub Stats
-
-<table border="0">
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-              <img src="https://github-readme-stats.vercel.app/api?username=veeksha12&show_icons=true&theme=tokyonight&hide_border=true" alt="veeksha12's GitHub stats" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeksha12&layout=compact&theme=tokyonight&hide_border=true" alt="veeksha12's Top Langs" />
-            </a>
-        </td>
-    </tr>
-</table>
