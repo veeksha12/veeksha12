@@ -8,7 +8,6 @@
       <h2>🧑‍💻 About Me</h2>
       <ul>
         <li>I'm a <strong>Dual Degree student (B.Tech + M.S. by Research) at IIIT Hyderabad</strong>, specializing in Computer Science and Computational Natural Sciences (CND).</li>
-        <li>Passionate about the intersection of <strong>Machine Learning, AI in Healthcare, and Computational Systems Biology</strong>.</li>
         <li>Based in <strong>Hyderabad, Telangana, India</strong>.</li>
       </ul>
     </td>
